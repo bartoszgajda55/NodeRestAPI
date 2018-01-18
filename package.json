@@ -1,0 +1,22 @@
+{
+  "name": "noderestapi",
+  "version": "1.0.0",
+  "description": "Learning project of Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bartoszgajda55/NodeRestAPI.git"
+  },
+  "author": "Bartosz Gajda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bartoszgajda55/NodeRestAPI/issues"
+  },
+  "homepage": "https://github.com/bartoszgajda55/NodeRestAPI#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
